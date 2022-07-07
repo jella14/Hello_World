@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a Docker using Ansible server </h2>
 <h2> Glad to see you here </h2>
-<h3> Changing the Index Page to something </h3>
+<h3> Changing the Index Page </h3>
